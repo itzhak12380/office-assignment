@@ -1,0 +1,35 @@
+.magic{
+    /* visibility: hidden; */
+    display: none;
+    /* line-height:5px; */
+    /* position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; */
+}
+
+.HoverMe:hover .magic{
+    display: inline;
+    margin: 5px;
+    z-index: 20
+}
+/* .HoverMe  .magic{ */
+    /* visibility: visible; */
+    /* background-color: rgb(55, 117, 233);
+    display: inline;
+    margin: 5px;
+    z-index: 20; */
+    /* visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0; */
+  
+    /* Position the tooltip */
+    /* position: absolute;
+    z-index: 1; */
+/* } */
+/* .HoverMe:hover .magic {
+    visibility: visible;
+  } */
